@@ -1,0 +1,29 @@
+{
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "41CF0DE4A6E04564D0A0A9CCB7284D023C97EC87" : 9223372036854775807,
+    "19C9D886DD8BF3E3F7A7D387503A2C7425EFCC10" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "BDAE329C-1FE2-4862-8A8A-F5F6C87A4E41",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "41CF0DE4A6E04564D0A0A9CCB7284D023C97EC87" : "",
+    "19C9D886DD8BF3E3F7A7D387503A2C7425EFCC10" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "testLib",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Example\/testLib.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/yzzlove\/YZZBaseBtnLib",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "19C9D886DD8BF3E3F7A7D387503A2C7425EFCC10"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/yzzlove\/YZZtestLib.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "41CF0DE4A6E04564D0A0A9CCB7284D023C97EC87"
+    }
+  ]
+}
